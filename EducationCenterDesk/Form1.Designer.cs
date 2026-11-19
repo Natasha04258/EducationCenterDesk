@@ -103,7 +103,7 @@
             this.btnExperimen.Text = "button1";
             this.btnExperimen.UseVisualStyleBackColor = true;
             this.btnExperimen.Click += new System.EventHandler(this.btnExperiment_Click);
-            // 
+            //  
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
