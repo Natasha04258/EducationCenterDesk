@@ -18,7 +18,7 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
-        }
+        } 
 
         #region Код, автоматически созданный конструктором форм Windows
 
